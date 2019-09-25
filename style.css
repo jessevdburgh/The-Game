@@ -1,0 +1,24 @@
+body{
+	background-image:url(fotos/wallpaper.jpg);
+	background-size: 100%;
+}
+
+button{
+	width: 350PX;
+	height: 150PX;
+	font-size:60px;
+	font-family: 'Righteous', cursive;
+	background-image: url(fotos/button.jpg);
+	border: solid black;
+	float:left;
+	background-size:50%;
+	color:white;
+
+}
+
+h1{
+	text-align: center;
+	font-family: 'Righteous', cursive;
+	color:white;
+	border:solid white;
+}
