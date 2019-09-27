@@ -79,8 +79,9 @@ var ans4 =prompt("je gaat in het vliegtuig opzoek naar nieuwe spullen ga je voor
 		alert("je komt onderweg een gesealde fles water tegen die uit het vliegtuig gevallen was")
 	}
 
-	else {
+	else if (ans5=="bos") {
 		alert("een groep canibalen eten jou op!!")
+		return false;
 	}
 	
 
