@@ -68,7 +68,7 @@ var ans4 =prompt("je gaat in het vliegtuig opzoek naar nieuwe spullen ga je voor
 		alert("je vind een flare gun deze kan later van pas komen")
 	}
 
-	else {
+	else if (ans4=="achterin") {
 		alert("je vind alleen verbrande kleren en koffers")
 	}
 
